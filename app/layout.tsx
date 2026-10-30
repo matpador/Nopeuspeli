@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Speden Spelit – Nopeuspeli",
-  description: "Speden Spelien nopeuspelin virallinen tulostaulu.",
+  description: "Speden Spelien nopeuspelin tulostaulu",
 };
 
 export default function RootLayout({
